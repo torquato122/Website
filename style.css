@@ -1,5 +1,5 @@
 body { 
-    background: #CCCCCC 
+    background: #ffadd6 
 }
 
 p {
@@ -7,5 +7,5 @@ p {
 }
 
 em strong{
-    color:red;
+    color:rgb(255, 79, 161);
 }
