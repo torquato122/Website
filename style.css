@@ -2,8 +2,8 @@ body {
     background: #ffd7ea 
 }
 
-#banner {src="banner.jpg">
-
+#banner {
+    width: 100%;
 }
 
 h1 {
